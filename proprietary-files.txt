@@ -2,4 +2,4 @@
 # are extracted from the factory stock firmware image.
 
 # GoogleCamera
-product/priv-app/GoogleCamera/GoogleCamera.apk|76abce039262ae8b60beaa3dc76c1db8f6cfc347
+product/priv-app/GoogleCamera/GoogleCamera.apk;OVERRIDES=Aperture|76abce039262ae8b60beaa3dc76c1db8f6cfc347

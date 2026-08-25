@@ -9,6 +9,7 @@ android_app_import {
         name: "GoogleCamera",
         owner: "Google",
         apk: "proprietary/product/priv-app/GoogleCamera/GoogleCamera.apk",
+        overrides: ["Aperture"],
         certificate: "platform",
         dex_preopt: {
                 enabled: false,
