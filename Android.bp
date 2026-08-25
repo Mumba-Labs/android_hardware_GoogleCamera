@@ -1,0 +1,18 @@
+// Automatically generated file. DO NOT MODIFY
+
+soong_namespace {
+        imports: [
+        ],
+}
+
+android_app_import {
+        name: "GoogleCamera",
+        owner: "Google",
+        apk: "proprietary/product/priv-app/GoogleCamera/GoogleCamera.apk",
+        certificate: "platform",
+        dex_preopt: {
+                enabled: false,
+        },
+        privileged: true,
+        product_specific: true,
+}
