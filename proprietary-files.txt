@@ -1,0 +1,5 @@
+# All blobs from this list, unless pinned and noted otherwise,
+# are extracted from the factory stock firmware image.
+
+# GoogleCamera
+product/priv-app/GoogleCamera/GoogleCamera.apk|76abce039262ae8b60beaa3dc76c1db8f6cfc347
